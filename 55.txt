@@ -6,3 +6,8 @@ commmit2
 after new1 bramch
 commit2
 commit 2
+
+
+
+after new2 branch
+commit1
