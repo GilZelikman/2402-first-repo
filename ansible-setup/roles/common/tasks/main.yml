@@ -1,0 +1,8 @@
+---
+- name: Install required packages
+  apt:
+    name:
+      - vim
+      - zip
+    state: present
+    update_cache: yes
